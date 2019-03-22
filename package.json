@@ -1,0 +1,15 @@
+{
+  "name": "@drupal-ckeditor-libraries-group/wordcount",
+  "description": "CKEditor 4 Word Count & Char Count Plugin",
+  "keywords": ["ckeditor", "plugin", "wordcount"],
+  "homepage": "https://ckeditor.com/cke4/addon/wordcount",
+  "bugs": {
+    "url": "https://github.com/w8tcha/CKEditor-WordCount-Plugin/issues"
+  },
+  "license" : "(GPL-2.0-or-later OR LGPL-2.1-or-later OR MPL-1.1)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/w8tcha/CKEditor-WordCount-Plugin.git",
+    "directory": "plugins/wordcount"
+	}
+}

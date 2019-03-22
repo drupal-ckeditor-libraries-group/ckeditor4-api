@@ -1,0 +1,16 @@
+{
+  "name": "drupal-ckeditor-libraries-group/api",
+  "description": "CKEditor 4 API plugin",
+  "type": "drupal-library",
+  "keywords": ["ckeditor", "plugin", "api"],
+  "homepage": "https://ckeditor.com/cke4/addon/api",
+  "license": [
+    "GPL-2.0-or-later",
+    "LGPL-2.1-or-later",
+    "MPL-1.1"
+  ],
+  "support": {
+    "issues": "https://github.com/akilli/ckeditor4-api/issues",
+    "source": "https://github.com/akilli/ckeditor4-api"
+  }
+}
